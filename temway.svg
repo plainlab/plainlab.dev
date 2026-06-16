@@ -1,13 +1,7 @@
-<svg width="148" height="148" viewBox="0 0 148 148" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="148" height="148" fill="white"/>
-<path d="M94 28H54C39.6406 28 28 39.6406 28 54V94C28 108.359 39.6406 120 54 120H94C108.359 120 120 108.359 120 94V54C120 39.6406 108.359 28 94 28Z" fill="url(#paint0_linear_624_97)"/>
-<path d="M54 69L74 55L94 69" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M90 77H58C55.7909 77 54 78.7909 54 81C54 83.2091 55.7909 85 58 85H90C92.2091 85 94 83.2091 94 81C94 78.7909 92.2091 77 90 77Z" fill="white"/>
-<path d="M82 89H66C63.7909 89 62 90.7909 62 93C62 95.2091 63.7909 97 66 97H82C84.2091 97 86 95.2091 86 93C86 90.7909 84.2091 89 82 89Z" fill="#FF6A4D"/>
-<defs>
-<linearGradient id="paint0_linear_624_97" x1="32" y1="36" x2="116" y2="116" gradientUnits="userSpaceOnUse">
-<stop stop-color="#6B40F2"/>
-<stop offset="1" stop-color="#4623C4"/>
-</linearGradient>
-</defs>
+<svg width="479" height="479" viewBox="0 0 479 479" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="479" height="479" rx="5" fill="white"/>
+<rect x="98" y="98" width="284" height="284" rx="72" stroke="#2B2B2B" stroke-width="16" stroke-linejoin="round"/>
+<path d="M175 235.15L239.5 190L304 235.15" stroke="#16121F" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="190" y1="265" x2="290" y2="265" stroke="black" stroke-width="20" stroke-linecap="round"/>
+<line x1="215" y1="301" x2="265" y2="301" stroke="black" stroke-width="20" stroke-linecap="round"/>
 </svg>
